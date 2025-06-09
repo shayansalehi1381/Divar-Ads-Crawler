@@ -14,5 +14,3 @@ This Python project uses Selenium to automatically scroll through job ads on the
 - Selenium
 - WebDriver Manager
 - ChromeDriver
-
-## Sample Output
